@@ -3,10 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aaronrojas32&label=Profile%20views&color=0e75b6&style=flat" alt="aaronrojas32" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronrojas32&show_icons=true&locale=en&layout=compact" alt="aaronrojas32" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronrojas32&show_icons=true&locale=en" alt="aaronrojas32" /></p>
